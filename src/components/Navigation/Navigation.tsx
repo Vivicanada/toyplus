@@ -10,7 +10,8 @@ import {
   ChevronDown,
   Plus,
 } from "lucide-react";
-import { categories, Category } from "@/data/mockData";
+import { categories } from "@/data/mockData";
+import { Category } from "@/types";
 
 interface NavigationProps {
   userStarCoins: number;
