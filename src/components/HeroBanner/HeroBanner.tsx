@@ -2,7 +2,8 @@
 
 import React from "react";
 import { Package, Star, Gift, Sparkles, Heart } from "lucide-react";
-import { ageRanges, AgeRange } from "@/data/mockData";
+import { ageRanges } from "@/data/mockData";
+import { AgeRange } from "@/types";
 
 interface HeroBannerProps {
   selectedAgeRange: AgeRange | null;
