@@ -151,7 +151,7 @@ const ChatView: React.FC<ChatViewProps> = ({
                 <p className="text-soft-gray text-sm">
                   No conversations yet.
                   <br />
-                  Start chatting by clicking "Chat" on a toy!
+                  Start chatting by clicking &quot;Chat&quot; on a toy!
                 </p>
               </div>
             )}
